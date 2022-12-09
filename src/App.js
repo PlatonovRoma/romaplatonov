@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 import './App.css';
 import Navbar from './components/Navbar.jsx';
 import Banner from './components/Banner';
@@ -5,7 +6,7 @@ import BannerLeft from './components/BannerLeft';
 import Main from './components/Main';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
-import { useState } from 'react';
+
 
 
 function App() {
