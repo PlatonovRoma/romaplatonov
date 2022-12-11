@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.48e539fd.css",
-    "main.js": "./static/js/main.2fc76e10.js",
+    "main.css": "./static/css/main.f86c15e3.css",
+    "main.js": "./static/js/main.466d390f.js",
     "static/js/787.3cd3a0e2.chunk.js": "./static/js/787.3cd3a0e2.chunk.js",
     "static/media/Frontend_weekdays.mp4": "./static/media/Frontend_weekdays.622598c9500dac913c01.mp4",
-    "static/media/diploma.jpg": "./static/media/diploma.5a4878673ad9e2d9a3be.jpg",
-    "static/media/Business event page.jpg": "./static/media/Business event page.cda95c6eb053024f24f8.jpg",
     "static/media/Roman.webp": "./static/media/Roman.db842da160799874cd0e.webp",
-    "static/media/Travel agency.jpg": "./static/media/Travel agency.b63e4b934521a918aa42.jpg",
-    "static/media/Beauty center.jpg": "./static/media/Beauty center.1279f7aa9ae366167616.jpg",
     "static/media/NicoMoji-Regular.ttf": "./static/media/NicoMoji-Regular.3004d447f30aae5c592d.ttf",
-    "static/media/Responsive caffe  order-list.jpg": "./static/media/Responsive caffe  order-list.f51f626d8fc21b7fb774.jpg",
-    "static/media/Internet shop.jpg": "./static/media/Internet shop.42dc5f3a0225cfdfc0ed.jpg",
+    "static/media/Business-event-page.webp": "./static/media/Business-event-page.184c075ccd9da4f96eda.webp",
+    "static/media/Beauty-center.webp": "./static/media/Beauty-center.279d8630905b0d50eee7.webp",
+    "static/media/Travel-agency.webp": "./static/media/Travel-agency.6466019f7090122f8079.webp",
+    "static/media/diploma.webp": "./static/media/diploma.a9f07239d3c6eb4b1d2d.webp",
+    "static/media/Responsive-caffe-order-list.webp": "./static/media/Responsive-caffe-order-list.15eabfbb909ab642c56f.webp",
+    "static/media/Internet-shop.webp": "./static/media/Internet-shop.9d4b46a4b89a9bf32869.webp",
     "static/media/VKL04848.webp": "./static/media/VKL04848.449b2b7175a98e9605e8.webp",
     "static/media/next-art.ttf": "./static/media/next-art.798591df033df08f80bc.ttf",
     "static/media/IMG_A.webp": "./static/media/IMG_A.2eda023aee4e6483a6aa.webp",
@@ -20,12 +20,12 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.48e539fd.css.map": "./static/css/main.48e539fd.css.map",
-    "main.2fc76e10.js.map": "./static/js/main.2fc76e10.js.map",
+    "main.f86c15e3.css.map": "./static/css/main.f86c15e3.css.map",
+    "main.466d390f.js.map": "./static/js/main.466d390f.js.map",
     "787.3cd3a0e2.chunk.js.map": "./static/js/787.3cd3a0e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48e539fd.css",
-    "static/js/main.2fc76e10.js"
+    "static/css/main.f86c15e3.css",
+    "static/js/main.466d390f.js"
   ]
 }
